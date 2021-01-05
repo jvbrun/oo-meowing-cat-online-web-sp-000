@@ -7,6 +7,3 @@ class Cat
   end
   
 end
-
-Cat.new = "cat"
-Cat.name 
